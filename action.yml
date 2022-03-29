@@ -1,5 +1,5 @@
-name: "Issue Auto Labeling and Assigning by Alex"
-description: "trigger an action based on issue comment"
+name: "ShadowNet - Issue Auto Labeling and Assigning"
+description: "trigger an action based on issue/PR comment"
 inputs:
   github-token:
     description: "Github token"
